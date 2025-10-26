@@ -9,8 +9,9 @@
      3.Click Indicate application to automate and select the webpage: https://www.w3schools.com/html/html_forms.asp. 
      4.Inside the Do section, add Type Into activities to enter: First Name → John Doe Add a Click activity to select and click the Submit button. 
      5.Save the workflow and click Run to execute the automation.
-     
-    <img width="613" height="593" alt="image" src="https://github.com/user-attachments/assets/4edcbc96-a061-49d3-8587-24d46c2a2206" />
+
+
+<img width="375" height="818" alt="Screenshot 2025-10-26 100313" src="https://github.com/user-attachments/assets/7824b7be-a275-48ad-b736-401c4533eb5a" />
 
    <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3655ea5-7c2a-4314-af37-ae47dec55603" />
 
